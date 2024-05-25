@@ -1,1 +1,1 @@
-# CustomPride2024
+# CustomPride

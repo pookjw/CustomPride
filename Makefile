@@ -1,3 +1,4 @@
+FINALPACKAGE=1
 TARGET := iphone:clang:latest:latest
 INSTALL_TARGET_PROCESSES = SpringBoard PridePosterExtension PosterBoard
 THEOS_PACKAGE_SCHEME = rootless
