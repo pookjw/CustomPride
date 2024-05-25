@@ -1,0 +1,9 @@
+Package: com.pookjw.custompride
+Name: CustomPride
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: An awesome MobileSubstrate tweak!
+Maintainer: pookjw
+Author: pookjw
+Section: Tweaks
+Depends: firmware (>= 17.5)
